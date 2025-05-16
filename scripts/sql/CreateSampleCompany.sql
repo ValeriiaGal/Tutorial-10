@@ -1,3 +1,6 @@
+
+
+
 CREATE TABLE Departemnt(
     Id INT IDENTITY(1,1) PRIMARY KEY,
     Name VARCHAR(25) UNIQUE NOT NULL,
